@@ -1,0 +1,9 @@
+[submodule "tdt4258_assignment_1_baseline"]
+	path = tdt4258_assignment_1_baseline
+	url = git@github.com:jorgenbele/tdt4258_assignment_1_baseline
+[submodule "tdt4258_assignment_1_improved"]
+	path = tdt4258_assignment_1_improved
+	url = git@github.com:jorgenbele/tdt4258_assignment_1_improved
+[submodule "tdt4258_assignment_1_report"]
+	path = tdt4258_assignment_1_report
+	url = git@github.com:jorgenbele/tdt4258_assignment_1_report
